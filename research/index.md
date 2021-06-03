@@ -11,6 +11,9 @@ subclass: "post page"
 <br/>
 ## Grants fetched/ Proposals submitted
 
+<details><summary><b>Proposal accepted at Nagpur University </b></summary> 
+ <i>“Development of Few Shot Learning for Medical Imaging,”</i> under Minor Research Grant for the Academic Year 2019-20. </details>
+
 <details><summary><b>Proposal accepted at Mumbai University </b></summary> 
  <i>“Development of Few Shot Learning for Medical Imaging,”</i> under Minor Research Grant for the Academic Year 2019-20. </details>
 
