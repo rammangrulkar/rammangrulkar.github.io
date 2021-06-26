@@ -21,6 +21,14 @@ Dr. Ramchandra Mangrulkar, being a post graduate from National Institute of Tech
 - [Research Gate](https://www.researchgate.net/profile/Ramchandra_Mangrulkar){:target="\_blank" rel="noopener"}
 - [LinkedIn](https://www.linkedin.com/in/dr-ramchandra-mangrulkar-07b51866/){:target="\_blank" rel="noopener"}
 
+## Slides & Presentations
+- <a href="/slides/Innovative Tools for Research.pdf" target="_blank"> Innovative Tools for Research </a>
+- <a href="/slides/Keynote.pdf" target="_blank"> Innovation in Research Tools and Technology </a>
+- <a href="/slides/Power_BI_and_Microsoft_Flow_Forms.pdf" target="_blank">Feedback Analysis using Microsoft Power BI, Forms and Flow </a>
+- <a href="/slides/IoT Wearable Presentation.pdf" target="_blank">IoT Wearable: Analytics, Security & Forensics</a>
+- <a href="/slides/Forensic Duplication.pdf" target="_blank">Lecture #32: Forensic Duplication</a>
+
+
 ## Citation Count
 
 - Google Scholar Citation Statistics  
