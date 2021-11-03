@@ -94,6 +94,9 @@ subclass: "post page"
 
 ## M.E / M.Tech Dissertation Examiner
 
+- Working as <b>PhD Thesis Advisory Committee Member</b> (Internal) at MPSTE Mumbai,
+  affiliated to NMIMS (Deemed to be Univerity), Mumbai.
+
 - Worked as Examiner for evaluation of M.E. / M.Tech Examiner at RTMNU Nagpur, SRTMNU Nanded, Gondwana University Gadchiroli, Savitribai Phule Pune University.
 
 - Worked as Examiner for evaluation of M.E. / M.Tech Examiner at Government Engineering College, Aurangabad.

@@ -28,6 +28,9 @@ UGC: Rs. 96,750/- (Received out of Rs. 1,29,000) [Ref. No.: F.No.-24-158/12 (WRO
 ## Referred International / National Journal Publications
 
 <ol>
+<li>Mehadi Surani and Ramchandra Mangrulkar, “Online Public Shaming Approach using
+Deep Learning Techniques", has been published in Journal of University of Shanghai for Science and Technology, Vol.23, Issue 21, March 2021, pp.214-217, ISSN:1007- 6735.</li>
+
 <li>Harshil Jhaveri, Himanshu Ashar and Ramchandra Mangrulkar, “Leveraging Data Science in Cyber Physical Systems to Overcome Covid-19”, has been published in Journal of University of Shanghai for Science and Technology, Vol.22, Issue 10, October 2020,pp.1993-2015, ISSN:1007-6735. </li>
 
 <li>Heet Savla, Vruddhi Mehta and Ramchandra Mangrulkar, “Prediction and Diagnosis of COVID-19 using Machine Learning Algorithms”, has been published in International Journal of Recent Technology and Engineering (IJRTE) Vol.9, Issue 3, September 2020, pp. 678-683, ISSN: 2277-3878. </li>
@@ -86,6 +89,16 @@ UGC: Rs. 96,750/- (Received out of Rs. 1,29,000) [Ref. No.: F.No.-24-158/12 (WRO
 ## Papers presented in International Conferences
 
 <ol>
+<li>Govind Thakur, Shreya Nayak and Ramchandra Mangrulkar, “MalDeXA - A Malware Detection system using XGBoost on Amazon Web Services", presented in International Conference on Innovative Computing, Intelligent Communication and Smart Electrical systems (ICSES -2021), organized by St. Joseph’s Institute of Technology, Chennai, India on 24th Sept. 2021.</li>
+
+<li>Rahul Patanwadia and Ramchandra Mangrulkar, “Novel Image Scrambling Recursive Algorithm utilizing Rubik's Cube”, presented in International Conference on Recent Trends in Electronics, Information and Communication Technology (RTEICT-2021), organized by Shri Venkateshwara College of Engineering, Bengaluru during 27th and 28th August 2021.</li>
+
+<li>Nishant Nimbare, Parth Shah, Shail Shah, Ramchandra Mangrulkar, “A Hybrid Approach for Landmark Recognition using Deep Local Features and Residual Network-50", presented in 2nd International Conference on Automation Computing and Communication (ICACC2021), organized by DY Patil’s RAIT NAvi Mumbai.</li>
+
+<li>Preet Soni, Yash Gandhi, Vrudhi Mehta, Ramchandra Mangrulkar, “HealthDesk- A One Stop Health Application Using Machine Learning Techniques ", presented in 2nd International Conference on Automation Computing and Communication (ICACC2021), organized by DY Patil’s RAIT Navi Mumbai.</li>
+
+<li>Mehdi Surani, Ramchandra Mangrulkar, “Comparative Analysis of Deep Learning Techniques to detect Online Public Shaming”, presented in 2nd International Conference on Automation Computing and Communication (ICACC2021), organized by DY Patil’s RAIT NAvi Mumbai.</li>
+
 <li>Dev Savla, Kaustubh Kekre, Amogh Parab, Jay Gala, Ramchandra Mangrulkar and Pankaj Sonawane, “Virtual Farmer,” presented in 11th International Conference on Computing Communication and Networking Technologies (ICCNT) during 1st July 2020 to 3rd July 2020, organized by IEEE Kharagpur Sesction, IIT Kharagpur.  </li>
 
 <li>Mr.Anish Pandita, Mr.Mit Parekh, Mr.Jitendra Sachwani, Mr.Romil Shah and Mr. Ramchandra Mangrulkar, “Design and Implementation of Library Shelf Management using Machine Learning” has been accepted for oral presentation in Springer Second International Conference on Advanced Computing Technologies and Applications 2020, Theme: Intelligent Computing” during 28th Feb. 2020 to 29th Feb. 2020 organized by DJSCE Mumbai. </li>
@@ -205,11 +218,11 @@ Working as Guest Editor for Special Issue of journal <i>"Applications of Blockch
 
 <li>Editing a book, “Cyber Security Threats and Challenges in Human Life: A Comprehensive Survey” to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
 
-<li>Editing a book, “Design of Intelligent Applications using Machine Learning and Deep Learning” to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
+<li>Editing a book, <a href="https://www.routledge.com/Design-of-Intelligent-Applications-using-Machine-Learning-and-Deep-Learning/Mangrulkar-Michalas-Shekokar-Narvekar-Chavan/p/book/9780367679798">“Design of Intelligent Applications using Machine Learning and Deep Learning”</a> to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
 
 <li>Editing a book, “Cyber Security and Digital Forensics” to be published by Wiley, Scrivener. </li>
 
-<li>Editing a book, “Future Trends in 5G and 6G: Challenges, Architecture, and Applications”, to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
+<li>Editing a book, <a href="https://www.routledge.com/Future-Trends-in-5G-and-6G-Challenges-Architecture-and-Applications/Ghonge-Mangrulkar-Jawandhiya-Goje/p/book/9781032006826">“Future Trends in 5G and 6G: Challenges, Architecture, and Applications”</a>, to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
 
 </ol>
 
@@ -217,7 +230,19 @@ Working as Guest Editor for Special Issue of journal <i>"Applications of Blockch
 ## Book Chapter
 
 <ul style="list-style-type:square">
-<li>The chapter entitled, ‘Data Acquisition and Preparation for Artificial Intelligence and Machine Learning Applications,’ authored by Kallol Bosu Roy Choudhuri, Ramchandra Mangrulkar has been accepted for publication in CRC Press, Taylor, and Francis Series Book ‘Design of Intelligent System using Machine Learning and Deep Learning’ </li>
+<li>The chapter entitled, Software Defined Network: A brief overview and survey of services,” has been accepted for publication in Springer Book, <a href="https://escripts.eai.eu/publication/333-software-defined-networking-for-ad-hoc-networks">“Software Defined Networks for Adhoc Networks”</a>.</li>
+
+<li>The chapter entitled, “Study of Machine Learning techniques for Recommendation System,” has been accepted for publication in Bentham Science Publisher, Book <a href="https://benthambooks.com/preorder-enquiries/subject/Artificial%20Intelligence%20and%20Data%20Science%20for%20Recommendation%20Systems:%20Current%20Trends,%20Technologies%20and%20Applications/category/SC109/book/Abhishek%20Majumder,%20Joy%20Lal%20Sarkar%20and%20Arindam%20Majumder/">“Artificial Intelligence and Data Science for Recommendation Systems: Current Trends, Technologies and Applications”</a>.</li>
+
+<li>The chapter entitled, “Federated Learning for Brain Tumor Segmentation on Cloud”, authored by Deep Gandhi, Jash Mehta, Nemil Shah, Ramchandra Mangrulkar has been accepted for publication in CRC Press, Taylor, and Francis Series Book <a href="https://www.routledge.com/Cloud-Computing-Technologies-for-Smart-Agriculture-and-Healthcare/Shrawankar-Malik-Arora/p/book/9781032068039">“Cloud Computing Technologies for Smart Agriculture and Healthcare”</a>.</li>
+
+<li>The chapter entitled, <a href="https://www.igi-global.com/book/enabling-blockchain-technology-secure-networking/253545">“Blockchain and It's Applications in Healthcare”</a> authored by Sumukh Maduskar, Maitri Gohil, Vikrant Gajria and Ramchandra Mangrulkar has been publichsed in Book “Enabling Blockchain Technology for Secure Networking and Communications" published by the by the United States of America IGI Global Information Science Reference (an imprint of IGI Global)701 E. Chocolate Avenue Hershey PA, USA</li>
+
+<li>The chapter entitled, <a href="https://www.igi-global.com/chapter/application-of-steganography-for-secure-data-transmission-using-lossless-compression/280007">“Application of Steganography for Secure Data Transmission Using Lossless Compression”</a>, authored by Kylyn Fernandes, Ankit Rishi Gupta, Pratik Panchal and Ramchandra Mangrulkar, published in: Multidisciplinary Approach to Modern Digital Steganography, IGI Global</li>
+
+<li>The chapter entitled, <a href="https://link.springer.com/chapter/10.1007%2F978-981-33-4996-4_4">“Recent Challenges in IoT”</a> authored by Sumukh Maduskar, Maitri Gohil, and Ramchandra Mangrulkar has been approved for publication in Book “Security Issues and Privacy Threats in Smart Ubiquitous Computing", published by the in-Springer book series Studies in Systems, Decision and Control.</li>
+
+<li>The chapter entitled, ‘Data Acquisition and Preparation for Artificial Intelligence and Machine Learning Applications,’ authored by Kallol Bosu Roy Choudhuri, Ramchandra Mangrulkar has been accepted for publication in CRC Press, Taylor, and Francis Series Book ‘Design of Intelligent System using Machine Learning and Deep Learning’</li>
 
 <li>The chapter entitled, ‘Application of Deep Learning in Counting WBCs, RBCs And Blood Platelets Using Faster Region Convolutional Neural Network,’ authored by Nirav Jain, Shail Shah, Ramchandra Mangrulkar, Pankaj Sonawane, has been accepted for publication in CRC Press, Taylor, and Francis Series Book ‘Design of Intelligent System using Machine Learning and Deep Learning.’</li>
 

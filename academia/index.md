@@ -11,6 +11,10 @@ subclass: "post page"
 <br/>
 ## Organization Level Responsibilities
 
+<p>Worked as a Coordinator for organizing One Day Faculty development program for
+SVKM's Institutes on “Applications of Power Automate, Power Virtual Assistant for
+AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</p>
+
 <p>Worked as one of the Initiator for training Faculty Members and Staff for Online Admission Process (Document Verification and Upload) during Admissions of AY: 2020-21 at NMIMS affiliated Institutes.</p>
 <ul>
 <li>Technical Hands-on session on developing Document upload and Verification system on 24th July & 26th July 2020.</li> 
@@ -74,6 +78,9 @@ subclass: "post page"
 <br />
 ## National and International Level Responsibilities:
 <ol>
+<li>Worked as Reviewer in IEEE Pune Section International Conference Innovation in Engineering, Design and Holistic Education IEEE Pune Con 2021 during December 16-19, 2021. </li>
+<li>Worked as Reviewer in International Conference on Automation, Computing and Communication 2021 (ICACC-2021), organized by RAIT Nerul, Navi Mumbai. </li>
+<li>Worked as Session Chair & Reviewer in National Conference on “Role of recent technology in nation – building” organized by the Department of Electrical Engineering, VISHWANIKETAN’s Institute of Management Entrepreneurship and Engineering Technology held during 09th July 2021 to 10th July 2021. </li>
 <li>Worked as Academic expert in Search Conference to identify and Validate technical skills in Computer Science and Engineering Department organized by Tulsiramji Gaikwad- Patil College of Engineering, Nagpur on 25th March 2021. </li>
 <li>Worked as Session Chair for the Computing track in an International Conference organized by Ramrao Adik Institute of Technology (RAIT), Navi Mumbai on 28th June 2020. </li>
 <li>Worked as a Session Chair for Track “AI Algorithms, tools & Applications” in an Online National Conference on “Emerging Trends in AI and Big Data (ETAB-2020)” on 12th June 2020 organized by Pune Institute of Computer Technology, Pune </li>
@@ -119,6 +126,12 @@ subclass: "post page"
 <br />
 ## Interaction with Professional Institutions:
 <ol>
+<li>Conducted a Hands-on Session on, “Applications of Google's DialogFlow in Knowledge Base” in AICTE ATAL Academy sponsored Online Short-Term Training Programme (STTP) on "Recent Advancement in AI and Machine Learning" during 25th October 2021 to 30th October 2021 organized by Deptt. Of CSE, Asam Kaziranga University, Asam.</li>
+<li>Conducted a Hands-on Session on, “Artificial Intelligence Bot for Academia: Case Studies with Google's DialogFlow and Microsoft Virtual Assistant” in AICTE ATAL Academy sponsored Online Short-Term Training Programme (STTP) on "Artificial Intelligence and Machine Learning with Data Science" on 15th July 2021.</li>
+<li>Conducted One Day Hands on Workshop on “Scientific Research Writing: A Cloud Based Approach” in ISTE Approved One Week FDP on “Research for Beginners", organized by Nutan Maharashtra Institute if Engineering and Technology, Talegaon, Pune on 14th July 2021.</li>
+<li>Conducted a Hands-on Session on “Artificial Intelligence Bot for Academia: Case Studies with Google's DialogFlow and Microsoft Virtual Assistant” at Babasaheb Naik College of Engineering, Pusad in AICTE ATAL Academy sponsored Online Short- Term Training Programme (STTP) on "Recent Advances in Artificial Intelligence" on 13th July 2021.</li>
+<li>Conducted One Day Hands on Workshop on “Applications of Power Automate, Power Virtual Assistant on AI Educational Bot” at DJSCE Mumbai on 5th June 2021.</li>
+<li>Delivered a Talk on “Role of AI Bots in Education” at ARMIET, Shahapur, Mumbai on 20th May 2020.</li>
 <li>Conducted One Day Hands on Workshop on “Research Writing, Research Preparation and Research Tools” at SMMCA Nagpur on 17th April 2021. </li>
 <li>Delivered a Talk on “Innovation tools for Research” in Two Days workshop on “Research Publications” (RTCEIT-2021) at SKNSITS Lonawala, Pune on 26th February 2021. </li>
 <li>Delivered a Talk on “Innovation in Research Tools” in One Week online Faculty Development Program on “Research Trends in Computer Engineering and Information Technology” (RTCEIT-2021) at Smt. Kashibai Navale College of Engineering, Pune on 8th January 2021. </li>
