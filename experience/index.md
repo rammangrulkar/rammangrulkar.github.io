@@ -28,6 +28,7 @@ subclass: "post page"
 ## Courses Taught/Teaching
 
 <ul>
+<li>Processor Organization and Architecture (TE-CE) </li>
 <li>Data Structure (SE-CE) </li>
 <li>Algorithm and Data Structure (SE- IT) </li>
 <li>Internet and Java Programming (BE-CE) </li>
@@ -69,6 +70,21 @@ subclass: "post page"
 ## Projects Guided
 
 <ul>
+<li><b>Ph.D. Evaluator and Examiner:</b>
+<ol>
+<li>Evaluated Ph.D. thesis of Mr. Amit Kumar, “Hybrid Optimization and Lasso Regression Technique for Cloud Database Migration", Under the guidance of Dr. M. SivakKumar Submitted to Sarvepalli Radhakrishnan University, Bhopal, 2021-22.</li>
+<li>Evaluated Ph.D. thesis of Mr. Harshal Datir, “An Efficient Hybrid Data Migration Technique for Intrusion Detection System", Under the guidance of Dr. P.M.Jawandhiya Submitted to SGBAU, Amravati, 2021-22.</li>
+</ol>
+</li>
+<li><b>Ph.D. Progress Evaluator/Thesis Advisory Committee Member</b>
+<ol>
+<li>Evaluating Progress of Ph.D. titled “Wireless Sensor Networks (WSNs) for Indoor Smart Grid Applications” of Mr. M. Ravinder under the supervision of Dr. Vikram Kulkarni (NMIMS-MPSTME Mumbai).</li>
+<li>Evaluating Progress of Ph.D. titled “Futuristic control System for water conservation in residential areas” of Mr. Salvi Loukik under the supervision of Dr. Ashish Jadhav (DY Patil's RAIT Navi Mumbai).</li>
+<li>Evaluating Progress of Ph.D. titled “Smart Active Warden System for Timing Covert Communication Prevention” of Mrs. Uttarwar Vrushali under the supervision of Dr. Dhananjay Dakhane (DY Patil's RAIT Navi Mumbai).</li>
+<li>Evaluating Progress of Ph.D. titled “An automated melody conditioned song generator for text based lyrics” of Ms. Shaikh Tarannum under the supervision of Dr. Ashish Jadhav (DY Patil's RAIT Navi Mumbai).</li>
+</ol>
+</li>
+
 <li><b>M.E. Dissertation Guided:</b>
 <ol>
 <li>A Secured Routing Method for Detecting False Reports and Gray Hole Attacks Along with Elliptical Curve Cryptography in Wireless Sensor Network. (Completed in 2014 by Ms.Sneha M. Sakharkar). </li>
@@ -87,12 +103,15 @@ subclass: "post page"
 <li>Deep Learning Approach for Detecting Online Shaming (ongoing).  </li>
 </ol>
 </li>
-<li><b>B.E. Project: </b>More than 35</li>
+<li><b>B.E. Project: </b>More than 70</li>
 </ul>
 
 <br />
 
 ## M.E / M.Tech Dissertation Examiner
+
+- Worked as MTech Paper Setter for the Subject “Cyber Security and Data Laws” at Dy
+  Patil's RAIT Nerul, 2021
 
 - Working as <b>PhD Thesis Advisory Committee Member</b> (Internal) at MPSTE Mumbai,
   affiliated to NMIMS (Deemed to be Univerity), Mumbai.
@@ -142,6 +161,10 @@ subclass: "post page"
 
 <li><b>2019-20</b>
 <ol>
+<li>Prepared syllabus of Ethical Hacking and Digital Forensics Autonomy Scheme of
+MTech in Computer Engineering, 2019-20.</li>
+<li>Prepared syllabus of Data Storage Technology of Autonomy Scheme of MTech in
+Computer Engineering, 2019-20.</li>
 <li>Reviewed syllabus for B.Tech Computer Engineering for AY: 2020-21, Sardar Patel Institute of Technology, Mumbai.</li>
 <li>Reviewed syllabus of Operating System Course syllabus in Second Year B. Tech. Computer Engineering, Rajashri Shahu College of Engineering, Pune (Autonomous College Affiliated to University of Pune. </li>
 <li>Reviewed syllabus of Human Computer Interaction under (Humanities) and Software Engg. and Project Management (Under Humanities & Social Science) Courses in Second Year B. Tech. Computer Engineering, Pimpri Chinchwad College of Engineering, Pune (Autonomous College Affiliated to University of Pune. </li>
@@ -150,4 +173,11 @@ subclass: "post page"
 </ol>
 </li>
 
+<li><b>2020-21</b>
+<ol>
+<li>Prepared syllabus of Processor Organization and Architecture and its laboratory in Autonomy Scheme of TE Computer Engineering, 2021-22.</li>
+<li>Prepared syllabus of Blockchain Technology and its laboratory in Autonomy Scheme of TE Computer Engineering, 2021-22.</li>
+<li>Prepared syllabus of Network Architecture in Autonomy Scheme of TE Computer Engineering, 2021-22</li>
+</ol>
+</li>
 </ul>

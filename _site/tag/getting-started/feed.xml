@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/getting-started/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-10-31T10:50:41+05:30</updated>
+  <updated>2022-02-02T16:16:45+05:30</updated>
   <id>http://localhost:4000/tag/getting-started/feed.xml</id>
 
   
@@ -49,14 +49,14 @@
       <published>2021-06-03T15:30:00+05:30</published>
       <updated>2021-06-03T15:30:00+05:30</updated>
       <id>http://localhost:4000/PowerVA</id>
-      <content type="html" xml:base="http://localhost:4000/PowerVA">&lt;p&gt;Welcome!
-Lets talk with me. I am virtual Assistant.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/PowerVA">Welcome!
+Lets talk with me. I am virtual Assistant. 
 
 &lt;div&gt;
-&amp;lt;iframe src=&quot;https://web.powerva.microsoft.com/canvas?cci_bot_id=d2227edd-ef7b-420e-8c41-514ac7a021bb&amp;amp;cci_tenant_id=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&quot; frameborder=&quot;0&quot; width=400px height=750px&amp;gt;&amp;lt;/iframe&amp;gt;
+&lt;iframe src=&quot;https://web.powerva.microsoft.com/canvas?cci_bot_id=d2227edd-ef7b-420e-8c41-514ac7a021bb&amp;cci_tenant_id=d1f14348-f1b5-4a09-ac99-7ebf213cbc81&quot; frameborder=&quot;0&quot; width=400px height=750px&gt;&lt;/iframe&gt;
   &lt;/div&gt;
-&lt;p&gt;&lt;br /&gt; 
-&lt;br /&gt;&lt;/p&gt;</content>
+&lt;br&gt; 
+&lt;br&gt;</content>
 
       
       
@@ -90,15 +90,13 @@ Lets talk with me. I am virtual Assistant.&lt;/p&gt;
       <published>2021-05-12T15:30:00+05:30</published>
       <updated>2021-05-12T15:30:00+05:30</updated>
       <id>http://localhost:4000/introduction-to-my-portfolio</id>
-      <content type="html" xml:base="http://localhost:4000/introduction-to-my-portfolio">&lt;h2 id=&quot;this-is-an-overview-to-my-portfolio&quot;&gt;This is an overview to my portfolio&lt;/h2&gt;
+      <content type="html" xml:base="http://localhost:4000/introduction-to-my-portfolio">## This is an overview to my portfolio
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/education/&quot;&gt;Education&lt;/a&gt; : This includes details about my education.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/academia/&quot;&gt;Academia&lt;/a&gt; : This includes all the academic,national and international duties and responsibilities I’ve held and also various workshops I’ve conducted.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/experience/&quot;&gt;Experience&lt;/a&gt;: This includes my professional experience as well as special courses and curriculum designed by me.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/research/&quot;&gt;Research&lt;/a&gt;: This includes all of my research contributions as an author, reviewer and even editor.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/about/&quot;&gt;About&lt;/a&gt;: This is an overview of myself and also various awards and achievements that I’ve received.&lt;/li&gt;
-&lt;/ul&gt;</content>
+- [Education](/education/) : This includes details about my education.
+- [Academia](/academia/) : This includes all the academic,national and international duties and responsibilities I've held and also various workshops I've conducted.
+- [Experience](/experience/): This includes my professional experience as well as special courses and curriculum designed by me.
+- [Research](/research/): This includes all of my research contributions as an author, reviewer and even editor.
+- [About](/about/): This is an overview of myself and also various awards and achievements that I've received.</content>
 
       
       

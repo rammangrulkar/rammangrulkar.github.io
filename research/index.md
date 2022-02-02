@@ -25,13 +25,34 @@ CSIR: Rs. 40,000/- (Sanctioned) [Ref. No: SYM/7691/12-HRD dated 24th Dec 2012]  
 UGC: Rs. 96,750/- (Received out of Rs. 1,29,000) [Ref. No.: F.No.-24-158/12 (WRO) dated 06th May 2013 and F.No.-24-159/12 (WRO) dated 06th May 2013]  </details>
 
 <br />
+
+## Patent
+
+<ul>
+<li>Published a patent on “Deep learning-based Language translator” (Application No: 202141049460, Date of Publication: 05/11/2021). </li>
+</ul>
+
+## Copyright
+
+<ul>
+<li>Copyright “Python Based Attendance Management Tool for Online Lecture during Covid 19 Pandemic”.(Application No/ROC No: L-110318/2022, Diary No: 24716/2021-CO/L, ROC Date: 11.01.2022)</li>
+</ul>
+
 ## Referred International / National Journal Publications
 
 <ol>
+<li>Sheel Sanghvi and Ramchadra Mangrulkar, “BITSAT: An efficient approach to modern image cryptography", has been provisionally accepted for publication in International Journal of Computational Science and Engineering. (Indexed in Scopus (Elsevier), Compendex (Elsevier), Emerging Sources Citation Index, Academic OneFile (Gale), ACM Digital Library, Impact Factor: 1.32)</li>
+
+<li>Shrey Dedhia and Ramchandra Mangrulkar, “Color Image Encryption Architecture Based on a Novel Confusion Approach and Multi-Chaotic Mapping” has been provisionally accepted for publication in International Journal of Information Security and Applications. (Science Citation Index Expanded, INSPEC, Scopus, Engineering Index, Impact Factor: 3.872).</li>
+
+<li>Onkar Thorat, Nirali Parekh and Ramchandra Mangrulkar, “TaxoDaCML: Taxonomy based Divide and Conquer using machine learning approach for DDoS attack classification", has been published in International Journal of Information Management Data Insights Vol 1, Issue 2, November 2021, pp. 1-13(ISSN: 0268-4012, Impact Factor: 14.098).[https://doi.org/10.1016/j.jjimei.2021.100048]</li>
+
+<li>Onkar Thorat, Ramchandra Mangrulkar, “Combining DNA sequences and chaotic maps to improve robustness of RGB image encryption”, has been provisionally accepted for publication International Journal of Computational Science and Engineering- In Press (ISSN: 1742-7193-Indexed in Scopus (Elsevier), Compendex (Elsevier), Emerging Sources Citation Index, Academic OneFile (Gale), ACM Digital Library, Impact Factor: 1.32) </li>
+
 <li>Mehadi Surani and Ramchandra Mangrulkar, “Online Public Shaming Approach using
 Deep Learning Techniques", has been published in Journal of University of Shanghai for Science and Technology, Vol.23, Issue 21, March 2021, pp.214-217, ISSN:1007- 6735.</li>
 
-<li>Harshil Jhaveri, Himanshu Ashar and Ramchandra Mangrulkar, “Leveraging Data Science in Cyber Physical Systems to Overcome Covid-19”, has been published in Journal of University of Shanghai for Science and Technology, Vol.22, Issue 10, October 2020,pp.1993-2015, ISSN:1007-6735. </li>
+<li>Harshil Jhaveri, Himanshu Ashar and Ramchandra Mangrulkar, “Leveraging Data Science in Cyber Physical Systems to Overcome Covid-19”, has been published in Journal of University of Shanghai for Science and Technology, Vol.22, Issue 10, October 2020,pp.1993-2015, ISSN:1007-6735. UGC-CARE Group- II. <br><a href="https://jusst.org/leveraging-data-science-in-cyber-physical-systems-to-overcomecovid-19/"> Paper Link</a></li>
 
 <li>Heet Savla, Vruddhi Mehta and Ramchandra Mangrulkar, “Prediction and Diagnosis of COVID-19 using Machine Learning Algorithms”, has been published in International Journal of Recent Technology and Engineering (IJRTE) Vol.9, Issue 3, September 2020, pp. 678-683, ISSN: 2277-3878. </li>
 
@@ -41,7 +62,7 @@ Deep Learning Techniques", has been published in Journal of University of Shangh
 
 <li>Mr.Bhavuk Sharma and Ramchandra S. Mangrulkar, “Deep Learning Applications in Cyber Security: A Comprehensive Review, Challenges and Future prospects” has been accepted for publication in International Journal of Engineering Applied Science and Technology, ISSN:2455-2143. </li>
 
-<li>Ramchandra S. Mangrulkar and Dr. Mohammad Atique, “SEDAR: Secured Energy Efficient Destination Aware Routing Protocol in Delay Tolerant Network" published in International Journal of Communication Networks and Distributed Systems (IJCNDS), Vol. 14, No. 3, 2015.[ DOI: 10.1504/IJCNDS.2015.068668]  </li>
+<li>Ramchandra S. Mangrulkar and Dr. Mohammad Atique, “SEDAR: Secured Energy Efficient Destination Aware Routing Protocol in Delay Tolerant Network" published in International Journal of Communication Networks and Distributed Systems (IJCNDS), Vol. 14, No. 3, 2015.[ DOI:10.1504/IJCNDS.2015.068668]  </li>
 
 <li>Ramchandra S. Mangrulkar and Dr. Mohammad Atique, “Implementation and Testing of Delay tolerant Network using Self-Capable and Routing Nodes: A Case Study" in International Journal of Computer Networking, Wireless and Mobile Communications (IJCNWMC) ; ISSN(Print):2250-1568; ISSN (Online): 2278-9448; Impact Factor (JCC): 2.5967, Vol. 3, Issue 1, Mar 2013, 231-244.  </li>
 
@@ -214,15 +235,17 @@ Working as Guest Editor for Special Issue of journal <i>"Applications of Blockch
 
 <ol>
 
-<li>Editing a book, “Intelligent Applications with Data Science,” to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
+<li>Pallavi Chavan, Parikshit N Mahalle, Ramchandra Mangrulkar and Idongesit Williams, “Data Science: Techniques and Intelligent Applications” to be published by Taylor and Francis, CRC Press.</li>
 
-<li>Editing a book, “Cyber Security Threats and Challenges in Human Life: A Comprehensive Survey” to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
+<li>Narendra Shekokar, Hari Vasudevan, Surya Durbha, Antonis Michalas, Ramchandra Mangrulkar, Tatwadarshi P Nagarhalli and Monika Mangla, “Cyber Security Threats and Challenges facing Human Life” to be published by Taylor and Francis, CRC Press. </li>
 
-<li>Editing a book, <a href="https://www.routledge.com/Design-of-Intelligent-Applications-using-Machine-Learning-and-Deep-Learning/Mangrulkar-Michalas-Shekokar-Narvekar-Chavan/p/book/9780367679798">“Design of Intelligent Applications using Machine Learning and Deep Learning”</a> to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
+<li>Ramchandra Mangrulkar, Antonis Michalas, Narendra Shekokar, Meera Narvekar and
+Pallavi Chavan, <a href="https://www.routledge.com/Design-of-Intelligent-Applications-using-Machine-Learning-and-Deep-Learning/Mangrulkar-Michalas-Shekokar-Narvekar-Chavan/p/book/9780367679798">“Design of Intelligent Applications using Machine Learning and Deep Learning”</a> published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
 
-<li>Editing a book, “Cyber Security and Digital Forensics” to be published by Wiley, Scrivener. </li>
+<li>Mangesh M. Ghonge, Sabyasachi Pramanik and Ramchandra Mangrulkar and Dac Nhuong Le, <a href="https://www.waterstones.com/book/cyber-security-and-digital-forensics/mangesh-mghonge/sabyasachi-pramanik/9781119795636,">“Cyber Security and Digital Forensics”</a> to be published by Wiley, Scrivener [ISBN: 9781119795636]. </li>
 
-<li>Editing a book, <a href="https://www.routledge.com/Future-Trends-in-5G-and-6G-Challenges-Architecture-and-Applications/Ghonge-Mangrulkar-Jawandhiya-Goje/p/book/9781032006826">“Future Trends in 5G and 6G: Challenges, Architecture, and Applications”</a>, to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
+<li>Mangesh M. Ghonge, Ramchandra Mangrulkar, Pradip M. Jawandhiya and Nitin
+Goje,<a href="https://www.routledge.com/Future-Trends-in-5G-and-6G-Challenges-Architecture-and-Applications/Ghonge-Mangrulkar-Jawandhiya-Goje/p/book/9781032006826">“Future Trends in 5G and 6G: Challenges, Architecture, and Applications”</a>, to be published by Taylor and Francis, CRC Press. [Scopus Indexed] </li>
 
 </ol>
 
@@ -230,11 +253,15 @@ Working as Guest Editor for Special Issue of journal <i>"Applications of Blockch
 ## Book Chapter
 
 <ul style="list-style-type:square">
+<li>The Chapter entitled, “4S Framework: A Practical CPS Design Security Assessment &
+Benchmarking Framework”, authored by Neel A. Patel, Dhairya A. Parekh, Yash A.
+Shah and Ramchandra Mangrulkar has been published in Wiley <a href="https://www.scrivenerpublishing.com/cart/title.php?id=707">“Cyber Security and Digital Forensics"</a> published by Scrivener publishing. </li>
+
 <li>The chapter entitled, Software Defined Network: A brief overview and survey of services,” has been accepted for publication in Springer Book, <a href="https://escripts.eai.eu/publication/333-software-defined-networking-for-ad-hoc-networks">“Software Defined Networks for Adhoc Networks”</a>.</li>
 
 <li>The chapter entitled, “Study of Machine Learning techniques for Recommendation System,” has been accepted for publication in Bentham Science Publisher, Book <a href="https://benthambooks.com/preorder-enquiries/subject/Artificial%20Intelligence%20and%20Data%20Science%20for%20Recommendation%20Systems:%20Current%20Trends,%20Technologies%20and%20Applications/category/SC109/book/Abhishek%20Majumder,%20Joy%20Lal%20Sarkar%20and%20Arindam%20Majumder/">“Artificial Intelligence and Data Science for Recommendation Systems: Current Trends, Technologies and Applications”</a>.</li>
 
-<li>The chapter entitled, “Federated Learning for Brain Tumor Segmentation on Cloud”, authored by Deep Gandhi, Jash Mehta, Nemil Shah, Ramchandra Mangrulkar has been accepted for publication in CRC Press, Taylor, and Francis Series Book <a href="https://www.routledge.com/Cloud-Computing-Technologies-for-Smart-Agriculture-and-Healthcare/Shrawankar-Malik-Arora/p/book/9781032068039">“Cloud Computing Technologies for Smart Agriculture and Healthcare”</a>.</li>
+<li>The chapter entitled, “Federated Learning for Brain Tumor Segmentation on Cloud”, authored by Deep Gandhi, Jash Mehta, Nemil Shah, Ramchandra Mangrulkar published in CRC Press, Taylor, and Francis Series Book <a href="https://www.routledge.com/Cloud-Computing-Technologies-for-Smart-Agriculture-and-Healthcare/Shrawankar-Malik-Arora/p/book/9781032068039">“Cloud Computing Technologies for Smart Agriculture and Healthcare”</a>.</li>
 
 <li>The chapter entitled, <a href="https://www.igi-global.com/book/enabling-blockchain-technology-secure-networking/253545">“Blockchain and It's Applications in Healthcare”</a> authored by Sumukh Maduskar, Maitri Gohil, Vikrant Gajria and Ramchandra Mangrulkar has been publichsed in Book “Enabling Blockchain Technology for Secure Networking and Communications" published by the by the United States of America IGI Global Information Science Reference (an imprint of IGI Global)701 E. Chocolate Avenue Hershey PA, USA</li>
 
@@ -281,6 +308,7 @@ Working as Guest Editor for Special Issue of journal <i>"Applications of Blockch
 <li>The chapter entitled, “Direction-Aware Routing Protocol for Delay Tolerant Network: Architecture, Design, and Implementation” authored by Dr. Ramchandra S. Mangrulkar and Dr. Mohammad Atique has been Published as Chapter 6 in the book, " Routing Protocols and Architectural Solutions for Optimal Wireless Networks and Security" by the United States of America IGI Global Information Science Reference (an imprint of IGI Global) 701 E. Chocolate Avenue Hershey PA, USA 17033, ISBN13: 9781522523420. <br><a href="https://www.igi-global.com/chapter/direction-aware-routing-protocol-for-delay-tolerant-network/181169">Chapter Link</a></li>
 </ul>
 <br />
+
 ## Reviewer of International Journal
 
 <ol>

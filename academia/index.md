@@ -10,25 +10,27 @@ subclass: "post page"
 
 <br/>
 ## Organization Level Responsibilities
-
-<p>Worked as a Coordinator for organizing One Day Faculty development program for
+<ol>
+<li>Working as one of the Coordinators for SVKM's IBM ATC from 2019-20</li>
+<li>Worked as a Coordinator for organizing One Day Faculty development program for SVKM's Institutes on “Applications of Power Automate, Power Virtual Assistant for AI Educational Bot" on 5<sup>th</sup> June 2020 at DJSCE Mumbai.</li>
+<li>Worked as a Coordinator for organizing One Day Faculty development program for
 SVKM's Institutes on “Applications of Power Automate, Power Virtual Assistant for
-AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</p>
+AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</li>
 
-<p>Worked as one of the Initiator for training Faculty Members and Staff for Online Admission Process (Document Verification and Upload) during Admissions of AY: 2020-21 at NMIMS affiliated Institutes.</p>
+<li>Worked as one of the Initiator for training Faculty Members and Staff for Online Admission Process (Document Verification and Upload) during Admissions of AY: 2020-21 at NMIMS affiliated Institutes.</li>
 <ul>
 <li>Technical Hands-on session on developing Document upload and Verification system on 24th July & 26th July 2020.</li> 
 <li>Training on Document verification process for Custodians Team and Document verification Team on 4th August 6th August 14th August 18th Dec 2020. </li>
 </ul>
-
+</ol>
 <br />
 ## College Level and University Level Responsibilities
 
 <ol>
 <li>Worked as a Coordinator for organizing a Two Day FDP on “Advanced Computing and Communication Technology for Industry 4.0" during 12th June to 13th June 2020 at DJSCE Mumbai. </li>
 <li>Organized Orientation Program of ASSDF-BE: CE and CSL: IL in Association with University of Mumbai on 12th July 2019. </li>
-<li>Worked as In-charge of Seminar Hall during Institute Level Round of Admissions in 2017-18, 2018-19 and 2019-20. </li>
-<li>Worked as ME Admission In-charge 2019-20 at Institute Level. </li>
+<li>WWorked as In-charge of Seminar Hall/2nd Floor during Institute Level Admissions in 2017-18, 2018-19,2019-20,2020-21,2021-22.</li>
+<li>Worked as ME Admission In-charge 2019-20,2020-21 at Institute Level.</li>
 <li>Working as Co-Convener (NAAC) and In-charge of IT Support Team for NAAC. </li>
 <li>Worked as one of the coordinators for a “Degree Distribution Ceremony,” on 16th Feb. 2019 for the graduating batch 2018-2019. </li>
 <li>Worked as one of the coordinators for organizing a “Expert talk on Natural Language Processing and Sentiment Analysis of Text “on 27th Feb. 2019 for the Third Year Students. </li>
@@ -49,7 +51,7 @@ AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</p>
 <li>Worked as SPOC Coordinator for NPTEL Local Chapter and Successfully Hosted Local Server at Institute.</li> 
 <li>Worked as VC nominee for conducting UGC interview at Cummins College of Engineering on 13th April 2017. </li>
 <li>Worked as VC nominee for conducting UGC interview at G.H.R.I.E.T.W, Nagpur on 9thMay 2016. </li>
-<li>Worked as VC nominee for conducting UGC interview at Vilasrao Deshmukh College of Engineering, Nagpur on 17thJune 2016.  </li>
+<li>Worked as VC nominee for conducting UGC interview at Vilasrao Deshmukh College of Engineering, Nagpur on 17th June 2016.  </li>
 <li>Worked as VC nominee for conducting UGC interview at OM College of Engineering, Wardha on 20th June 2016.  </li>
 <li>Worked as DTE Committee Expert for Nuva College of Engineering on 18thFeb. 2016.  </li>
 <li>Worked as DTE Committee Expert for Abha Gaikwad Patil college of Engineering on 18thFeb. 2016. </li> 
@@ -78,6 +80,7 @@ AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</p>
 <br />
 ## National and International Level Responsibilities:
 <ol>
+<li>Worked as a session Chair in IEEE Pune Section International Conference Innovation in Engineering, Design and Holistic Education IEEE Pune Con 2021 during December 16-19, 2021, organized by MIT-ADT Pune.</li>
 <li>Worked as Reviewer in IEEE Pune Section International Conference Innovation in Engineering, Design and Holistic Education IEEE Pune Con 2021 during December 16-19, 2021. </li>
 <li>Worked as Reviewer in International Conference on Automation, Computing and Communication 2021 (ICACC-2021), organized by RAIT Nerul, Navi Mumbai. </li>
 <li>Worked as Session Chair & Reviewer in National Conference on “Role of recent technology in nation – building” organized by the Department of Electrical Engineering, VISHWANIKETAN’s Institute of Management Entrepreneurship and Engineering Technology held during 09th July 2021 to 10th July 2021. </li>
@@ -126,6 +129,7 @@ AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</p>
 <br />
 ## Interaction with Professional Institutions:
 <ol>
+<li>Conducted a Hands-on Session on “Power Automate for Everyone” in November 2021 Tech Series organized by SVKM (HR-Training) on 15th November 2021.</li>
 <li>Conducted a Hands-on Session on, “Applications of Google's DialogFlow in Knowledge Base” in AICTE ATAL Academy sponsored Online Short-Term Training Programme (STTP) on "Recent Advancement in AI and Machine Learning" during 25th October 2021 to 30th October 2021 organized by Deptt. Of CSE, Asam Kaziranga University, Asam.</li>
 <li>Conducted a Hands-on Session on, “Artificial Intelligence Bot for Academia: Case Studies with Google's DialogFlow and Microsoft Virtual Assistant” in AICTE ATAL Academy sponsored Online Short-Term Training Programme (STTP) on "Artificial Intelligence and Machine Learning with Data Science" on 15th July 2021.</li>
 <li>Conducted One Day Hands on Workshop on “Scientific Research Writing: A Cloud Based Approach” in ISTE Approved One Week FDP on “Research for Beginners", organized by Nutan Maharashtra Institute if Engineering and Technology, Talegaon, Pune on 14th July 2021.</li>
@@ -145,7 +149,7 @@ AI Educational Bot" on 5th June 2020 at DJSCE Mumbai.</p>
 <li>Delivered talk as resource person and conducted Hands-on Session on “Network Simulator 2 (NS2)” in Faculty Development Program (FDP) during 1st to 2nd March 2019 organized by department of Electronics and Telecommunication Engineering at K. J. Somaiya Institute of Engineering and Technology (KJSIEIT) Sion, Mumbai.  </li>
 <li>Delivered expert talk and conducted Hands-on Session “Programming using NS2 along with Simulation and Implementation of New Routing Protocol in NS2” in ISTE approved STTP on “Recent Trends in Wireless Networks” on 7th Jan 2019 at DJSCE Mumbai. </li>
 <li>Delivered expert talk on “Applications of Machine Learning in Wireless Networks” and “Design and Simulation of Routing Protocol in NS2” in AICTE-ISTE Approved and Sponsored Induction/Refresher Programme on “Mitigation and Finding the Generic Solution for Network Security in the Wireless Domain” from 17th -22nd Dec. 2018 organized by JD College of Engineering, Nagpur. </li>
-<li>Delivered expert talk in Pre-Ph.D.  Course work organized for c1 (Research Methodology) and C3(Seminar & Report) scheduled on 17th and 18th June 2017 at Bapurao Deshmukh College of Engineering, Sevagram, Wardha. </li>
+<li>Delivered expert talk in Pre-Ph.D.  Course work organized for c1 (Research Methodology) and C3(Seminar & Report) scheduled on 17th and 18th June 2017 at Bapurao Deshmukh College of Engineering, Sevagram, Wardha.</li>
 <li>Delivered guest lecture on the topic, “Research Writing using Latex (IEEE Paper writing, Report writing)" at Vidyavardhini College of Engineering, Vasai on 11th August 2017. </li>
 <li>Delivered Expert Lecture in ISTE Approved STTP on “Energy Conservation in Smart Cities" at J.D.I.E.T Yavatmal on 21st April 2016.  </li>
 <li>Delivered Expert Lecture on “Latex and Its Application in Manuscript Preparation,” in Sinhgad Karandak, SKNCOE Pune on 15th Jan. 2016.  </li>
